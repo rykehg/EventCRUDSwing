@@ -1,4 +1,6 @@
-[img]https://i.imgur.com/7AsCvWp.gif[/img]
+<blockquote class="imgur-embed-pub" lang="en" data-id="7AsCvWp"><a href="//imgur.com/7AsCvWp">View post on imgur.com</a>
+</blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Simple CRUD using Swing
 
