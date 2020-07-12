@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1_cobe2tkw_2X9zy4WVnygQdL_TK6bJtg/view?usp=sharing" title="CRUD" >
+<blockquote class="imgur-embed-pub" lang="en" data-id="7AsCvWp"><a href="//imgur.com/7AsCvWp">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Simple CRUD using Swing
 
